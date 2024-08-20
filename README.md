@@ -1,6 +1,5 @@
 # Customer-Segmentation
 Building Customer Segmentation Models using Python
-Building Customer Segmentation Models Using Python
 Overview
 This project demonstrates how to build customer segmentation models using Python. The goal is to analyze customer data and segment customers into distinct groups based on their purchasing behavior, which can then be used for targeted marketing and personalized strategies.
 
